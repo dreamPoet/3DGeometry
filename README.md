@@ -4,11 +4,7 @@
 
 ##How to configure Libigl with VS2017
 
-you only need to download libigl and cmake. For libigl, make sure use 
-
-` git clone --recursive https://github.com/libigl/libigl.git`
-
-to get the correct relation and the whole files.
+you only need to download libigl and cmake. For libigl, make sure use ` git clone --recursive https://github.com/libigl/libigl.git` instead of downloading directly or other ways to get the correct relation and the whole files.
 
 Remember to add cmake/bin to `PATH`.
 
