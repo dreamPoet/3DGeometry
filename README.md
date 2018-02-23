@@ -30,3 +30,15 @@ Could NOT find MOSEK (missing: MOSEK_LIBRARIES MOSEK_INCLUDE_DIR)
 ```
 
 But these errors do not influence the final success. ( I do not find the reason for these...)
+
+
+
+## Some Notes
+
+Geometric Modeling: techniques and algorithms for representing and processing geometric objects.
+
+Focus on **triangle meshes**.
+
+Geometry Processing Pipeline:
+
+Input Data -> Surface Reconstruction -> Analysis of surface quality -> Surface smoothing for noise removal -> Parameterization -> Simplification for complexity reduction -> Remeshing for improving mesh quality -> Freeform and multiresolution modeling
